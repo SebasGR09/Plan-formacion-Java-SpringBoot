@@ -1,0 +1,13 @@
+# Comando: java -version
+**Resultado:**
+
+`openjdk version "21.0.12.1" 2026-08-18 LTS` \
+`OpenJDK Runtime Environment Microsoft-14941484 (build 21.0.12.1+1-LTS)` \
+`OpenJDK 64-Bit Server VM Microsoft-14941484 (build 21.0.12.1+1-LTS, mixed mode, sharing)`
+
+
+# Comando: javac -version
+
+**Resultado:**
+`javac 21.0.12.1`
+
